@@ -27,11 +27,11 @@
   - Performed accuracy checks, confusion matrix analysis, and ROC-AUC scoring  
 
 ## 🏥 Dataset Information
-The dataset used contains patient-related information, including demographic details, medical conditions, admission data, and healthcare services provided. For more details, refer to the `dataset_description.md` file.
+The dataset used contains patient-related information, including demographic details, medical conditions, admission data, and healthcare services provided. For more details, refer to the `data9.csv` file.
 
 ## ✍️ Author
 Kaoutar EL ouahabi  
-* [Email](kaoutar.elouahabi.de@gmail.com)  
+* [Email](mailto:kaoutar.elouahabi.de@gmail.com)  
 * [LinkedIn](https://www.linkedin.com/in/kaoutarelouahabi/)  
 
 
